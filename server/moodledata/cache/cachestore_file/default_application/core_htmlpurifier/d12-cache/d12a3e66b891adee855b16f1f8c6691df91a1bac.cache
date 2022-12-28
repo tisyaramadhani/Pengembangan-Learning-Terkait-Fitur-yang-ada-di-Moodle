@@ -1,0 +1,2 @@
+s:410:"<p>Ruas teks yang berisi ekspresi pemfilteran untuk URL yang diblokir. Penggunaan karakter wildcard '*' dimungkinkan. Contoh ekspresi: 'example.com' atau 'example.com/stuff/*'. 'example.com' cocok dengan 'example.com', 'www.example.com', dan 'www.mail.example.com'. 'example.com/stuff/*' cocok dengan semua permintaan ke subdomain 'example.com' mana pun yang memiliki 'stuff' sebagai segmen pertama jalur.</p>
+";

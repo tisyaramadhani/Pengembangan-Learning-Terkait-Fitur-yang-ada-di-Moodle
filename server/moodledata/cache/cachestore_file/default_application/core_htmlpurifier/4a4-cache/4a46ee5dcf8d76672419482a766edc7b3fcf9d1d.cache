@@ -1,0 +1,14 @@
+s:1123:"<p>Modul berkas memungkinkan pengajar untuk menyediakan berkas sebagai sumber kursus. Jika memungkinkan, berkas akan ditampilkan dalam antarmuka kursus; jika tidak, siswa akan diminta untuk mengunduhnya. Berkas mungkin menyertakan berkas pendukung, misalnya halaman HTML mungkin memiliki gambar yang disematkan.</p>
+
+<p>Perhatikan bahwa siswa perlu memiliki perangkat lunak yang sesuai di komputer mereka untuk membuka berkas.</p>
+
+<p>Sebuah file dapat digunakan</p>
+
+<ul>
+<li>Untuk berbagi presentasi yang diberikan di kelas</li>
+<li>Untuk menyertakan situs web mini sebagai sumber kursus</li>
+<li>Untuk menyediakan berkas draf program perangkat lunak sehingga siswa dapat mengedit dan mengirimkannya untuk penilaian</li>
+</ul>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/311/id/mod/resource/view" target="_blank" rel="noreferrer noopener"><i class="icon fa slicon-info fa-fw iconhelp icon-pre"></i>Bantuan labih lanjut<img class="icon fa fa-externallink fa-fw" alt="Buka di jendela baru" title="Buka di jendela baru" src="http://localhost/theme/image.php/moove/core/1670847247/i/externallink" /></a></div>
+";

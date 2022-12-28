@@ -1,0 +1,6 @@
+s:1003:"<p>Modul folder memungkinkan seorang pengajar untuk menampilkan sejumlah berkas terkait di dalam satu folder, mengurangi pengguliran di halaman kursus. Folder zip dapat diunggah dan dibuka untuk ditampilkan, atau folder kosong dibuat dan berkas diunggah ke dalamnya. Folder dapat digunakan
+* Untuk serangkaian file pada satu topik, misalnya sekumpulan makalah ujian terakhir dalam format pdf atau kumpulan file gambar untuk digunakan dalam proyek siswa
+* Untuk menyediakan ruang mengunggah bersama bagi guru di halaman kursus (menjaga agar folder tetap tersembunyi sehingga hanya guru yang bisa melihatnya)</p>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/311/id/mod/folder/view" target="_blank" rel="noreferrer noopener"><i class="icon fa slicon-info fa-fw iconhelp icon-pre"></i>Bantuan labih lanjut<img class="icon fa fa-externallink fa-fw" alt="Buka di jendela baru" title="Buka di jendela baru" src="http://localhost/theme/image.php/moove/core/1670847247/i/externallink" /></a></div>
+";
